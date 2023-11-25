@@ -10,7 +10,7 @@
     </head>
         <body>
             <h1>IS EXERCISE IMPORTANT?</h1> 
-        <div style="width:40%; float:left; margin-right:2%">
+        <div style="width:45%; float:left; margin-right:2%;">
             <h2>What if you didn't exercise at all? &nbsp;<span style="color:green">&lt;video&gt;</span></h2>
             <video width="80%" height="80%" controls poster="tired.jpg">
                 <source src="What If You Didn't Exercise at All.mp4" type="video/mp4">
